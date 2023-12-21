@@ -9,7 +9,7 @@ define('URL', (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] == 'on' ? 'https' :
 
 return [
 	'db' =>[
-		'name' => 'new_cms',
+		'name' => 'test',
 		'host' => 'localhost',
 		'user' => 'root',
 		'pass' => ''
